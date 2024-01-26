@@ -1,0 +1,16 @@
+body {
+    bacKground-color: #d6bcf4;
+    color: white;
+
+}
+h1 {
+    bacKground-color: #C2D64F;
+
+}
+
+.marklist {
+    background-color: antiquewhite;
+}
+.marklist li {
+    color: black
+}
